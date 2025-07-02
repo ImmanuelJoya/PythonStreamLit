@@ -32,10 +32,15 @@ Install the required packages using pip:
 pip install streamlit pandas plotly
 ```
 
-Run the Dashboards:```bash
+Run the Dashboards:
+
+```bash
 streamlit run dashboard_basic.py
 
-````
-Run the Dashboards:```bash
+```
+
+Run the Dashboards:
+
+```bash
 streamlit run dashboard_plotly.py
-````
+```
