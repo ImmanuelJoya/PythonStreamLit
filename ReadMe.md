@@ -7,9 +7,12 @@ An interactive data dashboard project built with **Streamlit**, **Pandas**, and 
 ## 📁 Project Structure
 
 pythonStreamLit/
+
+```bash
 ├── dashboard_basic.py # Basic dashboard using Streamlit and Pandas
 ├── dashboard_plotly.py # Dashboard with Plotly visualizations
 └── ReadMe.md # Project documentation
+```
 
 ---
 
